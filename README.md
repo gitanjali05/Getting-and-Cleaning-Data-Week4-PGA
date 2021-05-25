@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Week4-PGA
+## Getting-and-Cleaning-Data-Week4-PGA
 
 This repository was created for the week 4 assignment of Getting and Cleaning Data Coursera course.
 ### Steps involved are:
@@ -6,10 +6,10 @@ This repository was created for the week 4 assignment of Getting and Cleaning Da
 * Download the R source code into your R working directory.
 * Execute R source code to generate tidy data file.
 
-## Data Described
+### Data Described
 The variables in the data X indicates the sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 
-## Code Explained
+### Code Explained
 The code basically combines the training dataset and testing dataset,  and extracts the partial variables to create another dataset with the averages of each variable for each activity.
 The new generated dataset contains variables calculated based on the mean and standard deviation. Each row is an average of each activity type.
 
